@@ -5,5 +5,7 @@ public class MyGit {
 		// TODO Auto-generated method stub
 		System.out.println("hello,git");
 	}
-
+	public void testGit(){
+		System.out.println("hello,testgit");
+	}
 }
