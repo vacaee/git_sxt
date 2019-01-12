@@ -8,4 +8,8 @@ public class MyGit {
 	public void testGit(){
 		System.out.println("hello,testgit");
 	}
+	
+	public void testBranch(){
+		System.out.println("hello,testBranch");
+	}
 }
